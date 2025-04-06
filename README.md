@@ -1,7 +1,7 @@
 # Last-Minute-Concept-Reviser
 
 
-📚 Concept Reviser: Last-Minute Topic Review App (Console-based)
+📚 Concept Reviser: Last-Minute Topic Review App 
 A console application that helps students revise key concepts in various subjects by showing them quick definitions, formulas, and flashcards right before exams or interviews.
 
 💡 Why this project?
